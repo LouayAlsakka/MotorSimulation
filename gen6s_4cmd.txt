@@ -1,0 +1,1 @@
+python3 gen6s_4.py --swonv 560 --swfreq 10000 --swot 400 --swoffv 0 --rpm 500 --emfK 1 --RemfK 100 --scale 50 --R 200 --st 352 --et 355 --ts 2 --uc 20 --harmonic 1 --pn motor5 --vbus 550 --simdur 200 

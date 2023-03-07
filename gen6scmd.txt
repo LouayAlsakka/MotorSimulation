@@ -1,0 +1,1 @@
+python3 gen6s_2.py --itheta 290 --swfreq 10000 --swot 1000 --swoffv 0 --rpm 1500 --emfK 8 --RemfK 100 --scale 30 --R 200 --st 325 --et 326 --ts 1 --swfreq 5000 

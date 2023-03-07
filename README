@@ -1,0 +1,9 @@
+Command to run motor5/motor6 simulations:
+python3 gen6s_3.py --swonv 560 --swfreq 10000 --swot 400 --swoffv 0 --rpm 500 --emfK 1 --RemfK 100 --scale 50 --R 200 --st 352 --et 355 --ts 2 --uc 20 --harmonic 1 --pn motor6 --vbus 550 --simdur 200
+
+Important:
+- dead time (swot): 400ns;
+- emfK = 1 (e.g. rpt = 1000 -> back emf voltage = 66.6v);
+- vbus = 550;
+- switching voltage (swonv) = 560 (vbus + 10);
+
